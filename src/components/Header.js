@@ -13,7 +13,7 @@ function Header() {
     return (
         <div>
             <Container> 
-                <a href="/#"><img src="./images/logo.svg"></img></a>
+                <a href="/#"><img src="./images/logo.svg" alt="logo"></img></a>
                 <Anchor>
                     <Menu>
                     <Link href="/#1" title="Model S" />
